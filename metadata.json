@@ -1,0 +1,6 @@
+{
+  "name": "Element Reactor - Chemical Synthesis Lab",
+  "description": "Interactive 118-element periodic table and quantum chemical reaction simulator with live stoichiometry, reaction visuals, Web Audio sound synthesis, and AI scientific reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
